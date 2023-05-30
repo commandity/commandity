@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi visitors 👋
+This is my repo for collection of medical notes. There are also some web app developments such as HH calculator for clinical use. Feel free to browse around and leave comments.
+A freshman in the field of computer science.
+
+
+### About me
+- 🔭 Finish medical degree at National Taiwan University (NTU) in 2015
+- 🩺 Postgraduate year experience at National Taiwan University Hospital (NTUH)
+- 📫 Commitment in Ear, Nose & Throat (ENT) specialty as a resident since 2018
+- 👨‍⚕️ Dedication to myth of Anesthesiology from 2016 to 2018
 
 <!--
 **commandity/commandity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
